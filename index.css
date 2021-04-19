@@ -1,0 +1,29 @@
+.box
+{
+    width: 400px;
+    height: 100%;
+    border: 5px solid black;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.box iframe
+{
+    padding: 0px;
+    height: 200px;
+    width: 100%;
+}
+.box h3
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    border: 6px double black;
+}
+h2
+{
+    text-align: center;
+    border: 3px solid black;
+}
